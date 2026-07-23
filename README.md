@@ -8,7 +8,7 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52?logo=qt&logoColor=white)](https://pypi.org/project/PyQt5/)
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![PyVISA](https://img.shields.io/badge/instrument-Keithley%202450-005AA0)](https://pyvisa.readthedocs.io/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Licensing: under review](https://img.shields.io/badge/licensing-under%20review-lightgrey.svg)](LICENSING.md)
 
 <img src="assets/abaa_schematic.png" width="460" alt="ABAA procedure on a transmon junction: two probes contacting the pads, alternating bias applied across the Josephson junction in an A-B-A-A sequence."/>
 
@@ -231,4 +231,7 @@ Built by Daniel Oukhanov and Noam, at the Rosenblum Lab. Guided by Fabian and Se
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**No licence is currently granted.** This project was developed in an academic research
+context; licensing terms are pending institutional intellectual-property review. Until that
+review concludes, all rights are reserved — see [LICENSING.md](LICENSING.md). For reuse or
+licensing inquiries, please contact the author.

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "ABAA Smart Controller"
+message: "If you use this software or the measurement data, please cite it."
+type: software
+authors:
+  - family-names: Oukhanov
+    given-names: Daniel
+    alias: doukhanov
+repository-code: "https://github.com/doukhanov/abaa-controller"
+abstract: >-
+  Instrument control, data management and cooldown-endpoint prediction for
+  alternating-bias assisted annealing (ABAA) of Al/AlOx/Al Josephson junctions,
+  used for room-temperature trimming of transmon qubit frequency. Validated on
+  Manhattan-style transmon junctions and SQUIDs over a 6 +/- 3 kOhm working
+  range, reaching +/- 50 Ohm targeting precision (approximately +/- 25 MHz
+  frequency equivalent at 6 GHz). Measurement data is not distributed.
+keywords:
+  - quantum computing
+  - superconducting qubits
+  - Josephson junction
+  - transmon
+  - frequency targeting
+  - laboratory automation
+license: MIT

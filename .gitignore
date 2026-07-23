@@ -1,0 +1,27 @@
+# ---- Proprietary: measurement data and fitted models are NOT published ----
+data/
+runtime_data/
+artifacts/
+*.pkl
+*.joblib
+*.csv
+!docs/**/*.csv
+FILE_INVENTORY.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and scratch
+*.log
+*.tmp

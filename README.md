@@ -227,7 +227,7 @@ Stated plainly, because they set the roadmap:
 
 ## Acknowledgements
 
-Built by Daniel Oukhanov and Noam, at the Rosenblum Lab. Guided by Fabian and Sergey; fabrication support from Matthias.
+Built by Daniel Oukhanov and Noam Nezer, at the Rosenblum Lab. Guided by Fabian and Sergey; fabrication by Matthias.
 
 ## License
 
